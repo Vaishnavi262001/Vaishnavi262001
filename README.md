@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer+Backend+Developer;Java+%7C+Backend+%7C+Cloud+Learner;Building+Real+World+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer+Backend+Developer;Java+%7C+Backend+%7C+;Building+Real+World+Projects"/>
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 👩‍💻 Who Am I?
 - 🎓 MCA Graduate  
-- 💡 Passionate about **Software Development & Cloud**  
+- 💡 Passionate about **Software Development & Backend Development**  
 - 🌱 Learning **Spring Boot, Backend Development**  
 - 🚀 Goal: Become a **Skilled Software Engineer**  
 - 📍 India 🇮🇳  
@@ -56,11 +56,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & Tools  
+### ☁️ Tools & Technologies 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Basics-232F3E?style=for-the-badge&logo=amazonaws"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  
 </p>
 
 ---
@@ -88,8 +91,7 @@
 
 ✨ **What You'll Find Here**
 - 🔹 Java & Backend Projects  
-- 🔹 Spring Boot REST APIs  
-- 🔹 Cloud Practice Projects  
+- 🔹 Spring Boot REST APIs   
 - 🔹 Academic + Personal Work  
 
 👉 *Explore my repositories to see real implementations!*
