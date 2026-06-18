@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Java+%7C+Backend+%7C+Cloud+Learner;Building+Real+World+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer+Backend+Developer;Java+%7C+Backend+%7C+Cloud+Learner;Building+Real+World+Projects"/>
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ### 👩‍💻 Who Am I?
 - 🎓 MCA Graduate  
 - 💡 Passionate about **Software Development & Cloud**  
-- 🌱 Learning **Spring Boot, AWS & DevOps**  
+- 🌱 Learning **Spring Boot, Backend Development**  
 - 🚀 Goal: Become a **Skilled Software Engineer**  
 - 📍 India 🇮🇳  
 
@@ -102,7 +102,7 @@
   <a href="https://github.com/Vaishnavi262001">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/vaishnavi-manmode26">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
